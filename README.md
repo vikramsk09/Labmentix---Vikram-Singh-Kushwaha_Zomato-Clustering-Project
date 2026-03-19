@@ -6,13 +6,21 @@ This project focuses on exploring, analyzing, and clustering restaurant data fro
 - In this project, I performed an end-to-end data science workflow including data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning modeling. The primary objective was to group similar restaurants using clustering techniques and derive actionable insights from the dataset.
 
 📊 Key Features
+
 🔹 Data Preprocessing: Handled missing values, inconsistent formats, and transformed raw data into a structured format
+
 🔹 Exploratory Data Analysis (EDA): Visualized trends in ratings, cost, cuisines, and locations using informative plots
+
 🔹 Feature Engineering: Created meaningful features such as cuisine count, cost categories, and rating normalization
+
 🔹 Clustering Models: Applied algorithms like K-Means to identify restaurant segments
+
 🔹 Evaluation Techniques: Used Elbow Method and Silhouette Score to determine optimal clusters
+
 🔹 Visualization: Represented clusters using 2D projections and insightful graphs
+
 🔹 Insights Extraction: Identified patterns in customer preferences, pricing strategies, and restaurant performance
+
 
 🧠 Objective
 
