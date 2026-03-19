@@ -22,36 +22,30 @@ This project focuses on exploring, analyzing, and clustering restaurant data fro
 🔹 Insights Extraction: Identified patterns in customer preferences, pricing strategies, and restaurant performance
 
 
+
 🧠 Objective
 
-To segment restaurants into distinct clusters based on their characteristics and behavior, helping businesses understand:
+- To segment restaurants into distinct clusters based on their characteristics and behavior, helping businesses understand:
+- Customer preferences 🍴
+- Pricing trends 💰
+- Popular cuisines 🌍
+- Restaurant positioning 📍
 
-Customer preferences 🍴
-
-Pricing trends 💰
-
-Popular cuisines 🌍
-
-Restaurant positioning 📍
 
 🛠️ Tech Stack
 
-Python 🐍
+- Python 🐍
+- Pandas & NumPy (Data Processing
+- Matplotlib & Seaborn (Visualization)
+- Scikit-learn (Machine Learning)
 
-Pandas & NumPy (Data Processing)
 
-Matplotlib & Seaborn (Visualization)
-
-Scikit-learn (Machine Learning)
 
 📈 Outcomes
+- Successfully identified meaningful clusters of restaurants
+- Discovered key factors influencing ratings and customer choices
+- Built a scalable pipeline for clustering and analysis
 
-Successfully identified meaningful clusters of restaurants
-
-Discovered key factors influencing ratings and customer choices
-
-Built a scalable pipeline for clustering and analysis
 
 💡 Conclusion
-
-This project demonstrates how unsupervised learning techniques can be leveraged to extract hidden patterns from real-world datasets and generate valuable business insights.
+- This project demonstrates how unsupervised learning techniques can be leveraged to extract hidden patterns from real-world datasets and generate valuable business insights.
